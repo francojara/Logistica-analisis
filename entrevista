@@ -1,0 +1,13 @@
+Entrevista con el cliente
+
+Owner: Hola buenas noches, venimos de Doofenshmirtz Malvados y Asociados©®™, a raíz de que nos solicitaron ayuda con ciertos aspectos de su negocio.
+Customer: Hola, los estabamos esperando.
+Owner: Lamentamos la demora, ¿podría indicarnos que necesita? 
+Customer: Bien, necesitamos varias cosas, para empezar un sistema que nos permita organizarnos mejor, que sea manejable por mis empleados y por mi. Que solamente yo tenga el acceso a modificar las cosas, y que los empleados puedan informarme de los detalles del inventario. 
+Owner: Podría ser mas especifico? 
+Customer: Si, necesito un manejo de inventario, en nuestro lugar tenemos una estantería con 4 palets de largo x 4 palets alto, por cada pasillo tenemos 2 estanterías, lo que da un total de 10, necesitamos saber en qué estante hay cada producto, para facilitar más la búsqueda, también un registro de egreso o ingreso de mercadería. Un control de inventario, para saber si están llenas las estanterías y poder reponer stock, si todas las estanterías están llenas, se recurrirá a agregar una estantería más.
+Owner: ¿Qué otra función necesita?
+Customer: Si, necesitamos un registro de transporte, teniendo en cuenta que cada camión es manejado por un chofer en particular.
+Owner: Algún pedido más? 
+Customer: Y lo último sería un control de paquetería, poder saber si un paquete llegó a destino o no. 
+Owner: Bueno, perfecto, en unas semanas estará hecho. 

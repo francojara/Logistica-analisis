@@ -1,0 +1,325 @@
+<mxfile host="app.diagrams.net" modified="2023-07-06T00:20:54.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="N91wFvVjNXw7YTyY3bj_" version="21.6.1" type="google">
+  <diagram name="Página-1" id="O-j96EreOoQWIsPWLTHl">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="466" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.832;exitY=-0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="483" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-1" target="e_Nfu-xt7us5Jfip-hZl-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="721" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="310" />
+              <mxPoint x="721" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-1" target="e_Nfu-xt7us5Jfip-hZl-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="380" />
+              <mxPoint x="90" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-1" target="e_Nfu-xt7us5Jfip-hZl-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-1" target="e_Nfu-xt7us5Jfip-hZl-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="377" />
+              <mxPoint x="450" y="220" />
+              <mxPoint x="730" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-1" target="e_Nfu-xt7us5Jfip-hZl-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="585" />
+              <mxPoint x="390" y="800" />
+              <mxPoint x="90" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-1" target="e_Nfu-xt7us5Jfip-hZl-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-1" target="e_Nfu-xt7us5Jfip-hZl-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-1" value="Sistema de administración de deposito" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="377" width="208" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-2" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="250" />
+              <mxPoint x="330" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-2" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="280" />
+              <mxPoint x="320" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-2" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="220" />
+              <mxPoint x="340" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-2" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="190" />
+              <mxPoint x="350" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-2" value="Gerente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-4" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-4" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-4" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-4" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="740" />
+              <mxPoint x="370" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-4" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="590" />
+              <mxPoint x="311" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-4" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="770" />
+              <mxPoint x="380" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.207;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-4" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="710" />
+              <mxPoint x="353" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-2" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="160" />
+              <mxPoint x="360" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-4" value="Empleado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-5" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.399;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-5" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-5" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-5" value="Base de datos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-7" value="Ingresar Mercaderia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-9" value="Recibir Mercaderia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-12" value="Ingresar precios" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-17" value="Actualizar Inventario" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="250" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-28" value="Egreso de Mercaderia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="350" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-32" value="Recibir Informe General" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-38" value="Registrar chofer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="590" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-44" value="Generar Nuev. Pedido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="500" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-46" value="Modificar Mercaderia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-54" value="Terminar Pedido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="530" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-55" value="Entregar Informe de camion y chofer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="650" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-58" value="Entregar Informe de Inventario" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="680" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-60" value="Consultar producto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="740" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-62" value="Enregar Informe de pedido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="710" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-65" value="Recibir Producto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="770" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-67" value="Informe de Mercaderia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="400" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-68" value="Localizar producto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="518" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-70" value="Controlar Inventario" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="560" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-76" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-76" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-76" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="660" />
+              <mxPoint x="740" y="600" />
+              <mxPoint x="518" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-76" value="Chofer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-77" value="Ensamblar paquete" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="430" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-49" value="Modificar Precios" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-82" value="Identificar paquete" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="510" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-87" value="Informe de paquete entregado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="540" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-90" value="Recibir paquete" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="650" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-92" value="Destino del paquete" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="680" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-98" value="Registrar chofer y camion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="570" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_Nfu-xt7us5Jfip-hZl-100" value="Informe destino" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="460" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="klEdyAhc6d8ZN0ZT24PG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.091;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e_Nfu-xt7us5Jfip-hZl-4" target="e_Nfu-xt7us5Jfip-hZl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="620" />
+              <mxPoint x="329" y="620" />
+            </Array>
+            <mxPoint x="150" y="700" as="sourcePoint" />
+            <mxPoint x="420" y="837" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="klEdyAhc6d8ZN0ZT24PG-4" value="Contratar chofer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="130" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
