@@ -1,0 +1,4 @@
+Los requerimientos del cliente son: 
+
+Un sistema que les permita saber el ingreso y egreso de productos, saber en qué estantería están. Saber en qué estantería está cada producto, control de inventario para saber si reponer stock o no. 
+Por la parte de envíos, se requiere saber quien está a cargo del camión y si se entregaron o no los pedidos
