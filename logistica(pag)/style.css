@@ -1,0 +1,16 @@
+.fondo{
+    background-image: url(img/camion.jpg);
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    width: 350px;
+    border: 1px solid;
+    border-radius: 25px;
+}
